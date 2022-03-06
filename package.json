@@ -1,0 +1,20 @@
+{
+  "name": "crud-node-express",
+  "version": "1.0.0",
+  "description": "Starter Crud Operations for any project with a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razvantamsa/crud-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razvantamsa/crud-node-express/issues"
+  },
+  "homepage": "https://github.com/razvantamsa/crud-node-express#readme"
+}
